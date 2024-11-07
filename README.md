@@ -9,3 +9,5 @@ The script opens up in Admin mode, allowing it to create the necessary folder on
 Another function of the script is restoring the backed up files from the folder directly to your save game folder and safely giving the option of overwriting in case the wrong option is selected.
 
 This script will most likely become defunct once cloud saves are added & the lobby exploit is fixed, but still useful if you want an offline backup for whatever reason
+
+Update 2024-11-06: Script is still fully functional with the newest patch, since save slots have been added the amount of files copied will increased based on how many saves you have
